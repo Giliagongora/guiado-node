@@ -1,0 +1,15 @@
+{
+  "name": "guiado-node",
+  "version": "0.0.1",
+  "description": "ejercicio guiado",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Laboratoria",
+  "license": "ISC",
+  "dependencies": {
+    "expresss": "0.0.0",
+    "materialize-css": "^0.100.1"
+  }
+}
